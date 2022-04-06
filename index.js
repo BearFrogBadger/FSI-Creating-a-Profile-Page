@@ -3,3 +3,5 @@ let header = document.createElement("h1")
 header.setAttribute("class", "dog-name")
 header.append("Rizzo")
 content.append(header)
+let content = document.querySelector("dog.image")
+
